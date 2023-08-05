@@ -1,0 +1,8 @@
+This program computes square roots iteratively using the Babylonian method. You can build it with:
+$ make
+
+And then run it with:
+$ ./sqrt radicand [iterations]
+
+If you do not specify a number of iterations, it will default to five.
+
